@@ -1,0 +1,14 @@
+===== Cara Run Program =====
+
+- run program python
+- masukkan input seperti:
+
+ if a ? $ { c = a ^ b } else { d = @ }  
+
+ 1.? - operator pembanding: == | > | < 
+ 2.$ - variabel: a | b 
+ 3.^ - operator aritmatika: + | - | * | /
+ 4.@ - variabel: a | b
+
+Contoh input: if a==a {c=a+b} else {d=a}
+
